@@ -6,5 +6,6 @@ public class Main {
     System.out.println("nautilus");
     System.out.println("hi fi");
     System.out.println("print");
+    System.out.println("privet");
   }
 }
